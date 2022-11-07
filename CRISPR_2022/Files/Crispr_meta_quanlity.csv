@@ -1,0 +1,329 @@
+baby_id,month,sample_id,gender,delivery_mode,age_newborn,sampling_mother,age_4m,age_12m,feeding_first_week,feeding_4m,breastfeeding_12m,antibiotic_0_4M,antibiotic_4_12m,num_CRISPRs,spacers_sample,num_contigs,total_bp,min,max,average,N50
+1,12M,1_12M,boy,vaginal,4,4,114,378,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,14,192,29148,83330338,200,434357,2858,17797
+1,4M,1_4M,boy,vaginal,4,4,114,378,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,14,162,11130,66439505,200,600953,5969,60878
+1,B,1_B,boy,vaginal,4,4,114,378,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,9,94,6372,46562580,202,516879,7307,49102
+1,M,1_M,boy,vaginal,4,4,114,378,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,26,272,69659,167587927,200,359475,2405,7606
+7,12M,7_12M,girl,vaginal,2,2,115,359,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,0,15,203,22790,99215185,200,424606,4353,19222
+7,4M,7_4M,girl,vaginal,2,2,115,359,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,0,3,45,9784,24054982,204,308015,2458,22382
+7,B,7_B,girl,vaginal,2,2,115,359,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,0,6,103,4860,28566123,205,448524,5877,23217
+7,M,7_M,girl,vaginal,2,2,115,359,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,0,23,283,68814,147280768,200,467421,2140,5332
+9,12M,9_12M,boy,vaginal,2,2,129,380,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,16,199,24054,89219626,200,365734,3709,18265
+9,4M,9_4M,boy,vaginal,2,2,129,380,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,7,80,18475,40809788,200,435710,2208,6237
+9,B,9_B,boy,vaginal,2,2,129,380,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,1,15,164,5099638,216,390214,31095,198813
+9,M,9_M,boy,vaginal,2,2,129,380,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,29,399,74543,183703533,200,395750,2464,7748
+10,12M,10_12M,boy,vaginal,1,2,110,380,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,28,450,33594,121244098,200,479939,3609,23051
+10,4M,10_4M,boy,vaginal,1,2,110,380,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,6,75,5500,32601195,203,474219,5927,38131
+10,B,10_B,boy,vaginal,1,2,110,380,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,3,51,701,10398422,212,559559,14833,242034
+10,M,10_M,boy,vaginal,1,2,110,380,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,35,462,60088,174576863,200,570635,2905,10034
+12,12M,12_12M,girl,vaginal,2,0,111,376,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,47,16452,38160910,200,292590,2319,10801
+12,4M,12_4M,girl,vaginal,2,0,111,376,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,108,10725,39199340,200,407894,3654,14032
+12,B,12_B,girl,vaginal,2,0,111,376,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,1,7,7131,28068206,200,273132,3936,28027
+12,M,12_M,girl,vaginal,2,0,111,376,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,120,49210,136140243,200,275386,2766,11598
+42,12M,42_12M,boy,vaginal,3,0,122,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,3,20,289,35089,108280192,200,381971,3085,12818
+42,4M,42_4M,boy,vaginal,3,0,122,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,3,14,216,14513,76472216,200,717929,5269,43850
+42,B,42_B,boy,vaginal,3,0,122,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,3,6,98,4105,17611826,200,873478,4290,112602
+42,M,42_M,boy,vaginal,3,0,122,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,3,16,176,64856,130807833,200,386399,2016,5074
+45,12M,45_12M,boy,vaginal,2,2,127,363,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,11,137,32971,92830123,200,736230,2815,14190
+45,4M,45_4M,boy,vaginal,2,2,127,363,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,4,42,5697,35048033,201,580373,6152,37140
+45,M,45_M,boy,vaginal,2,2,127,363,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,19,263,81669,153044979,200,212354,1873,3972
+45,B,45_B,boy,vaginal,2,2,127,363,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,4138,15778174,200,378352,3812,67189
+53,12M,53_12M,boy,vaginal,5,5,132,363,exclusively breastfeeding,mixed feeding,no breastfeeding,0,2,13,217,35227,103021776,200,696189,2924,19720
+53,4M,53_4M,boy,vaginal,5,5,132,363,exclusively breastfeeding,mixed feeding,no breastfeeding,0,2,5,72,17777,65356468,200,491093,3676,41309
+53,B,53_B,boy,vaginal,5,5,132,363,exclusively breastfeeding,mixed feeding,no breastfeeding,0,2,3,32,3698,23827560,202,395206,6443,42609
+53,M,53_M,boy,vaginal,5,5,132,363,exclusively breastfeeding,mixed feeding,no breastfeeding,0,2,18,230,63626,152601316,200,350188,2398,7738
+70,12M,70_12M,boy,vaginal,2,0,120,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,16,177,50111,127802743,200,368440,2550,6853
+70,4M,70_4M,boy,vaginal,2,0,120,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,5,66,18608,62434689,200,368578,3355,10005
+70,B,70_B,boy,vaginal,2,0,120,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,2,30,1815,24048256,203,525366,13249,85973
+70,M,70_M,boy,vaginal,2,0,120,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,28,317,79971,199810693,200,348559,2498,7248
+78,12M,78_12M,boy,vaginal,7,4,120,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,15,190,45936,124341700,200,304791,2706,10566
+78,4M,78_4M,boy,vaginal,7,4,120,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,11,138,17876,74760845,201,488531,4182,28298
+78,B,78_B,boy,vaginal,7,4,120,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,2,48,8634,24012783,200,361265,2781,14728
+78,M,78_M,boy,vaginal,7,4,120,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,17,204,79464,154312496,200,543934,1941,4968
+82,12M,82_12M,girl,vaginal,6,6,128,369,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,15,179,42966,127568271,200,433966,2969,14662
+82,4M,82_4M,girl,vaginal,6,6,128,369,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,13,179,29987,101797880,201,589708,3394,19081
+82,B,82_B,girl,vaginal,6,6,128,369,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,5,61,7699,33129506,200,303571,4303,21907
+82,M,82_M,girl,vaginal,6,6,128,369,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,30,350,73274,189128879,200,617198,2581,9257
+103,12M,103_12M,girl,section,3,4,125,369,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,17,158,40793,87378490,200,346667,2141,6375
+103,4M,103_4M,girl,section,3,4,125,369,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,7,98,3185,24852011,206,370834,7802,67639
+103,B,103_B,girl,section,3,4,125,369,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,3,48,11720,49656587,200,484665,4236,30146
+103,M,103_M,girl,section,3,4,125,369,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,18,213,81579,162576122,200,620922,1992,4946
+105,12M,105_12M,boy,vaginal,5,5,118,354,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,74,28847,100645247,200,353166,3488,15543
+105,4M,105_4M,boy,vaginal,5,5,118,354,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,13,135,19847,48762953,200,265009,2456,6086
+105,B,105_B,boy,vaginal,5,5,118,354,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,1,19,2015,9376394,201,300376,4653,58931
+105,M,105_M,boy,vaginal,5,5,118,354,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,18,186,119983,211238347,200,344879,1760,3406
+128,12M,128_12M,boy,vaginal,1,2,123,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,25,292,62155,173569180,200,468740,2792,10440
+128,4M,128_4M,boy,vaginal,1,2,123,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,135,14138,65175517,200,528078,4609,36797
+128,B,128_B,boy,vaginal,1,2,123,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,6,84,3624,26459381,202,314545,7301,53179
+128,M,128_M,boy,vaginal,1,2,123,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,36,401,117519,228308704,200,400859,1942,4924
+133,12M,133_12M,boy,vaginal,11,11,124,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,107,40975,124333181,200,355891,3034,19562
+133,4M,133_4M,boy,vaginal,11,11,124,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,99,23248,76218330,200,416167,3278,19720
+133,B,133_B,boy,vaginal,11,11,124,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,41,5888,24386643,202,285549,4141,17443
+133,M,133_M,boy,vaginal,11,11,124,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,100,137042,246855961,200,329480,1801,3646
+137,12M,137_12M,boy,vaginal,1,2,134,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,15,157,24022,79058999,200,452306,3291,31636
+137,4M,137_4M,boy,vaginal,1,2,134,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,42,12851,44434271,200,631789,3457,36178
+137,B,137_B,boy,vaginal,1,2,134,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,27,3042,21544203,201,469574,7082,42456
+137,M,137_M,boy,vaginal,1,2,134,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,22,242,92419,193023267,200,447103,2088,5071
+150,12M,150_12M,girl,vaginal,1,2,121,364,mixed feeding,exclusively breastfeeding,no breastfeeding,1,0,12,153,16749,60144142,200,590702,3590,19332
+150,4M,150_4M,girl,vaginal,1,2,121,364,mixed feeding,exclusively breastfeeding,no breastfeeding,1,0,5,73,8027,31097111,201,648017,3874,12357
+150,M,150_M,girl,vaginal,1,2,121,364,mixed feeding,exclusively breastfeeding,no breastfeeding,1,0,19,197,83544,167581709,200,315996,2005,4570
+150,B,150_M,girl,vaginal,1,2,121,364,mixed feeding,exclusively breastfeeding,no breastfeeding,1,0,0,0,380,8693620,200,606911,22877,89378
+157,12M,157_12M,girl,vaginal,0,0,128,365,Formula feeding ,exclusively breastfeeding,any breastfeeding,0,0,5,81,18448,65173305,200,440875,3532,47569
+157,4M,157_4M,girl,vaginal,0,0,128,365,Formula feeding ,exclusively breastfeeding,any breastfeeding,0,0,5,74,6854,30892826,200,464979,4507,32064
+157,B,157_B,girl,vaginal,0,0,128,365,Formula feeding ,exclusively breastfeeding,any breastfeeding,0,0,2,16,1204,5888304,230,348485,4890,172590
+157,M,157_M,girl,vaginal,0,0,128,365,Formula feeding ,exclusively breastfeeding,any breastfeeding,0,0,30,346,62759,175219337,200,574907,2791,11431
+172,12M,172_12M,boy,vaginal,3,1,123,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,2,0,15,139,37869,110998560,200,244817,2931,10154
+172,4M,172_4M,boy,vaginal,3,1,123,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,2,0,11,115,8506,53446175,201,493806,6283,43549
+172,B,172_B,boy,vaginal,3,1,123,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,2,0,5,63,9545,59366122,200,343472,6219,31036
+172,M,172_M,boy,vaginal,3,1,123,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,2,0,28,334,98486,212822431,200,504542,2160,5204
+179,12M,179_12M,girl,vaginal,8,4,121,361,mixed feeding,mixed feeding,no breastfeeding,0,0,10,98,38702,91745168,200,485539,2370,7052
+179,4M,179_4M,girl,vaginal,8,4,121,361,mixed feeding,mixed feeding,no breastfeeding,0,0,8,59,14837,80202912,204,459591,5405,37659
+179,M,179_M,girl,vaginal,8,4,121,361,mixed feeding,mixed feeding,no breastfeeding,0,0,21,243,106050,190678368,200,415862,1798,3788
+179,B,179_M,girl,vaginal,8,4,121,361,mixed feeding,mixed feeding,no breastfeeding,0,0,0,0,1392,18475277,201,398552,13272,62026
+180,12M,180_12M,girl,vaginal,7,6,124,362,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,78,23978,60729540,201,519435,2532,7825
+180,4M,180_4M,girl,vaginal,7,6,124,362,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,57,6889,32273770,200,519435,4684,47164
+180,B,180_B,girl,vaginal,7,6,124,362,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,19,4682,24079182,200,433370,5142,26370
+180,M,180_M,girl,vaginal,7,6,124,362,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,20,199,130494,227306210,200,273142,1741,3252
+181,12M,181_12M,girl,vaginal,3,3,119,357,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,118,23953,63983579,200,258931,2671,10334
+181,4M,181_4M,girl,vaginal,3,3,119,357,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,64,29151,51192516,200,386269,1756,3381
+181,B,181_B,girl,vaginal,3,3,119,357,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,29,3630,20057248,204,473389,5525,53588
+181,M,181_M,girl,vaginal,3,3,119,357,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,17,242,110949,202669383,200,368023,1826,3379
+184,12M,184_12M,girl,vaginal,3,0,125,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,23,214,58561,138865767,200,257445,2371,5761
+184,4M,184_4M,girl,vaginal,3,0,125,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,8,84,19878,52821538,202,222041,2657,6110
+184,B,184_B,girl,vaginal,3,0,125,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,6,57,4727,39415041,201,433515,8338,31330
+184,M,184_M,girl,vaginal,3,0,125,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,26,262,64611,149107823,200,354353,2307,6822
+195,12M,195_12M,boy,vaginal,2,0,114,396,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,30,312,40655,120398072,200,444711,2961,11856
+195,4M,195_4M,boy,vaginal,2,0,114,396,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,9,119,21204,66882274,200,317783,3154,8526
+195,B,195_B,boy,vaginal,2,0,114,396,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,2,18,10906,25018855,201,154923,2294,7181
+195,M,195_M,boy,vaginal,2,0,114,396,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,22,216,77453,148457873,200,428017,1916,4619
+201,12M,201_12M,girl,vaginal,8,8,NA,381,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,6,72,14610,61647446,200,453544,4219,29049
+201,4M,201_4M,girl,vaginal,8,8,NA,381,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,12,154,16902,39218639,201,313745,2320,12612
+201,B,201_B,girl,vaginal,8,8,NA,381,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,6,62,12538,44106702,200,424199,3517,29958
+201,M,201_M,girl,vaginal,8,8,NA,381,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,17,174,106243,186833610,200,256366,1758,3669
+203,12M,203_12M,girl,vaginal,3,0,112,357,mixed feeding,mixed feeding,no breastfeeding,0,2,4,51,12159,34260392,201,622411,2817,34400
+203,4M,203_4M,girl,vaginal,3,0,112,357,mixed feeding,mixed feeding,no breastfeeding,0,2,5,67,6934,17163534,204,249150,2475,36959
+203,B,203_B,girl,vaginal,3,0,112,357,mixed feeding,mixed feeding,no breastfeeding,0,2,1,10,4650,17079100,203,450728,3672,80155
+203,M,203_M,girl,vaginal,3,0,112,357,mixed feeding,mixed feeding,no breastfeeding,0,2,9,83,46567,102270006,200,187640,2196,4884
+224,12M,224_12M,boy,vaginal,8,8,124,377,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,4,56,13897,48550666,200,312908,3493,18004
+224,4M,224_4M,boy,vaginal,8,8,124,377,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,2,37,9277,38770818,200,273278,4179,34306
+224,B,224_B,boy,vaginal,8,8,124,377,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,1,20,1709,17940073,205,700046,10497,106042
+224,M,224_M,boy,vaginal,8,8,124,377,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,13,134,104757,189742393,200,349838,1811,3474
+229,12M,229_12M,boy,vaginal,NA,NA,125,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,18,270,26111,92198703,200,428356,3531,22287
+229,4M,229_4M,boy,vaginal,NA,NA,125,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,6,67,10456,31747082,200,359711,3036,16503
+229,B,229_B,boy,vaginal,NA,NA,125,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,78,4417,25410153,200,466659,5752,35890
+229,M,229_M,boy,vaginal,NA,NA,125,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,37,473,114558,221805198,200,377559,1936,4295
+238,12M,238_12M,boy,vaginal,5,6,123,365,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,4,37,16692,41732691,200,353704,2500,17277
+238,4M,238_4M,boy,vaginal,5,6,123,365,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,3,32,7900,24723988,200,634437,3129,20780
+238,B,238_B,boy,vaginal,5,6,123,365,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,2,22,314,8336817,202,576487,26550,106353
+238,M,238_M,boy,vaginal,5,6,123,365,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,12,124,66686,123572649,200,259476,1853,3437
+240,12M,240_12M,girl,vaginal,1,0,122,358,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,5,62,19094,61741588,200,418719,3233,18490
+240,M,240_M,girl,vaginal,1,0,122,358,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,5,67,29171,55826771,200,354605,1913,5014
+240,4M,240_M,girl,vaginal,1,0,122,358,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,3951,30052888,202,308211,7606,62600
+240,B,240_M,girl,vaginal,1,0,122,358,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,1009,5676827,202,311289,5626,86617
+244,12M,244_12M,boy,vaginal,2,0,128,362,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,13,180,51864,129506474,200,243163,2497,8927
+244,4M,244_4M,boy,vaginal,2,0,128,362,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,1,7,28951,72964077,200,249060,2520,9697
+244,B,244_B,boy,vaginal,2,0,128,362,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,1,22,8862,33598647,201,477287,3791,18969
+244,M,244_M,boy,vaginal,2,0,128,362,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,1,3,43,40056,66758507,200,218493,1666,3085
+256,12M,256_12M,boy,vaginal,3,0,118,385,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,18,179,35047,78378462,200,273887,2236,4948
+256,4M,256_4M,boy,vaginal,3,0,118,385,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,8,112,5140,16876809,206,406825,3283,21635
+256,B,256_B,boy,vaginal,3,0,118,385,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,2,26,3131,11741150,201,468454,3749,39621
+256,M,256_M,boy,vaginal,3,0,118,385,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,22,221,47577,114304098,200,430628,2402,6902
+258,12M,258_12M,boy,vaginal,1,1,115,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,180,30872,69656638,200,232450,2256,8599
+258,4M,258_4M,boy,vaginal,1,1,115,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,38,3525,23445435,204,393414,6651,46911
+258,B,258_B,boy,vaginal,1,1,115,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,25,3664,10154868,207,382861,2771,11093
+258,M,258_M,boy,vaginal,1,1,115,363,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,21,199,90811,167605301,200,247401,1845,3420
+263,12M,263_12M,boy,vaginal,9,7,128,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,36,400,69811,158651311,200,554583,2272,6608
+263,4M,263_4M,boy,vaginal,9,7,128,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,14,185,21122,68531367,200,395098,3244,14137
+263,B,263_B,boy,vaginal,9,7,128,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,85,9329,41201522,201,406511,4416,25753
+263,M,263_M,boy,vaginal,9,7,128,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,43,466,124564,254292881,200,389871,2041,4720
+265,12M,265_12M,girl,vaginal,11,12,124,372,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,119,25361,73281236,200,442141,2889,10274
+265,4M,265_4M,girl,vaginal,11,12,124,372,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,54,5481,17170008,203,399342,3132,15563
+265,B,265_B,girl,vaginal,11,12,124,372,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,8,98,9231,33655994,200,745542,3645,37925
+265,M,265_M,girl,vaginal,11,12,124,372,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,19,188,115337,177498022,200,362018,1538,2481
+268,12M,268_12M,boy,vaginal,3,3,119,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,17,234,45941,121475494,200,344756,2644,12153
+268,4M,268_4M,boy,vaginal,3,3,119,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,152,16025,62609274,201,486242,3906,21415
+268,B,268_B,boy,vaginal,3,3,119,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,32,14447,42751574,200,264509,2959,11615
+268,M,268_M,boy,vaginal,3,3,119,371,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,26,324,106123,229284202,200,559848,2160,5828
+275,12M,275_12M,boy,vaginal,1,2,119,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,10,122,15458,60392765,200,524081,3906,34422
+275,4M,275_4M,boy,vaginal,1,2,119,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,1,6,1901,11135685,201,373616,5857,50017
+275,B,275_B,boy,vaginal,1,2,119,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,34,11987,30851938,201,339235,2573,10956
+275,M,275_M,boy,vaginal,1,2,119,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,129,34737,109713659,200,452212,3158,23862
+276,12M,276_12M,boy,vaginal,4,4,128,373,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,21,247,37969,121854105,200,381930,3209,14571
+276,4M,276_4M,boy,vaginal,4,4,128,373,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,6,59,23705,63624204,200,598482,2683,12077
+276,B,276_B,boy,vaginal,4,4,128,373,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,35,17073,44908143,200,705513,2630,13714
+276,M,276_M,boy,vaginal,4,4,128,373,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,40,75347,184696406,200,440265,2451,7283
+281,12M,281_12M,girl,vaginal,7,7,117,366,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,7,100,36549,97077566,201,350069,2656,10627
+281,4M,281_4M,girl,vaginal,7,7,117,366,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,11,156,28474,74285377,200,551310,2608,10010
+281,B,281_B,girl,vaginal,7,7,117,366,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,4,72,17236,51429335,200,473671,2983,16394
+281,M,281_M,girl,vaginal,7,7,117,366,mixed feeding,exclusively breastfeeding,no breastfeeding,0,1,20,212,90427,196282894,200,399068,2170,5909
+282,12M,282_12M,girl,vaginal,2,0,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,119,23351,78187737,200,401173,3348,15637
+282,4M,282_4M,girl,vaginal,2,0,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,69,8581,34062906,201,296481,3969,21010
+282,B,282_B,girl,vaginal,2,0,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,57,6782,30740570,201,237947,4532,41917
+282,M,282_M,girl,vaginal,2,0,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,29,343,107284,235262952,200,240060,2192,5941
+332,12M,332_12M,girl,vaginal,12,12,125,409,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,16,170,42329,121725123,200,523753,2875,14970
+332,4M,332_4M,girl,vaginal,12,12,125,409,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,180,12549,75285702,200,590789,5999,52571
+332,B,332_B,girl,vaginal,12,12,125,409,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,5,66,10366,51610779,200,293650,4978,27875
+332,M,332_M,girl,vaginal,12,12,125,409,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,10,92,57124,131285232,200,310805,2298,7860
+335,12M,335_12M,girl,vaginal,2,0,122,385,mixed feeding,exclusively breastfeeding,any breastfeeding,0,1,14,204,12866,50805636,200,493393,3948,18203
+335,4M,335_4M,girl,vaginal,2,0,122,385,mixed feeding,exclusively breastfeeding,any breastfeeding,0,1,3,40,11211,49809483,201,335458,4442,11964
+335,B,335_B,girl,vaginal,2,0,122,385,mixed feeding,exclusively breastfeeding,any breastfeeding,0,1,4,36,7241,32337183,200,487313,4465,33145
+335,M,335_M,girl,vaginal,2,0,122,385,mixed feeding,exclusively breastfeeding,any breastfeeding,0,1,23,291,92976,196258930,200,362582,2110,4649
+338,12M,338_12M,girl,vaginal,2,0,126,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,18,236,37456,116386433,200,422688,3107,10391
+338,4M,338_4M,girl,vaginal,2,0,126,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,26,8218,30847572,204,477905,3753,27498
+338,B,338_B,girl,vaginal,2,0,126,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,38,5207,24472389,200,491677,4699,20088
+338,M,338_M,girl,vaginal,2,0,126,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,16,177,92437,216919673,200,441093,2346,6412
+341,12M,341_12M,boy,vaginal,4,3,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,13,100,39854,89944032,200,465605,2256,5953
+341,4M,341_4M,boy,vaginal,4,3,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,112,14881,55939440,201,539049,3759,15456
+341,B,341_B,boy,vaginal,4,3,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,37,15898,60985788,201,253895,3836,23909
+341,M,341_M,boy,vaginal,4,3,122,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,23,247,69628,176435341,200,375444,2533,9166
+343,12M,343_12M,girl,vaginal,9,10,122,364,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,6,76,17757,58000718,200,802462,3266,21471
+343,4M,343_4M,girl,vaginal,9,10,122,364,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,3,49,6821,30366679,202,657467,4451,24083
+343,B,343_B,girl,vaginal,9,10,122,364,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,1,11,2147,11224158,215,269163,5227,53304
+343,M,343_M,girl,vaginal,9,10,122,364,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,18,174,75855,161198154,200,483560,2125,5377
+345,12M,345_12M,girl,vaginal,2,0,121,359,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,7,118,33567,82992930,200,500199,2472,9541
+345,4M,345_4M,girl,vaginal,2,0,121,359,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,7,94,22183,77026595,200,569307,3472,12707
+345,B,345_B,girl,vaginal,2,0,121,359,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,4,49,13504,40365436,200,542273,2989,9601
+345,M,345_M,girl,vaginal,2,0,121,359,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,18,198,82215,187345990,200,335837,2278,6768
+350,12M,350_12M,boy,vaginal,1,0,121,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,22,277,25812,102452016,200,413604,3969,22866
+350,4M,350_4M,boy,vaginal,1,0,121,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,7,74,10376,33544741,202,431402,3232,24995
+350,B,350_B,boy,vaginal,1,0,121,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,5,79,12799,39827846,203,531352,3111,46761
+350,M,350_M,boy,vaginal,1,0,121,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,1,36,399,64681,184630082,200,368618,2854,11687
+377,12M,377_12M,girl,vaginal,3,4,123,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,8,91,26661,74258189,200,648390,2785,13390
+377,4M,377_4M,girl,vaginal,3,4,123,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,5,50,17785,56560093,200,248276,3180,10159
+377,B,377_B,girl,vaginal,3,4,123,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,4,52,5091,22117299,202,719050,4344,35267
+377,M,377_M,girl,vaginal,3,4,123,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,39,469,109429,231816665,200,396052,2118,5024
+385,12M,385_12M,girl,vaginal,3,3,110,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,20,242,67528,134860828,200,659119,1997,5614
+385,4M,385_4M,girl,vaginal,3,3,110,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,48,4990,14816506,200,211485,2969,17152
+385,B,385_B,girl,vaginal,3,3,110,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,48,8887,28500443,200,666894,3206,18794
+385,M,385_M,girl,vaginal,3,3,110,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,142,65219,108100166,200,715195,1657,2997
+387,12M,387_12M,girl,vaginal,2,0,121,364,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,11,135,31389,82810435,200,356124,2638,8105
+387,4M,387_4M,girl,vaginal,2,0,121,364,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,5,71,27636,53328620,200,362832,1929,4005
+387,B,387_B,girl,vaginal,2,0,121,364,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,5,56,6815,24599336,200,437044,3609,48222
+387,M,387_M,girl,vaginal,2,0,121,364,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,21,204,87312,162724979,200,478634,1863,3532
+397,12M,397_12M,girl,vaginal,10,10,118,370,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,1,0,10,116,25485,71369005,200,465599,2800,15429
+397,4M,397_4M,girl,vaginal,10,10,118,370,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,1,0,2,52,7099,23221099,200,367341,3271,43730
+397,B,397_B,girl,vaginal,10,10,118,370,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,1,0,2,27,2830,13795815,212,588037,4874,32931
+397,M,397_M,girl,vaginal,10,10,118,370,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,1,0,25,371,108298,228570067,200,390940,2110,5491
+503,12M,503_12M,boy,vaginal,3,3,124,371,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,22,248,45953,132037396,200,418197,2873,11652
+503,4M,503_4M,boy,vaginal,3,3,124,371,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,14,170,23078,80012180,200,403012,3467,13900
+503,B,503_B,boy,vaginal,3,3,124,371,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,5,60,5826,22085786,203,438894,3790,33863
+503,M,503_M,boy,vaginal,3,3,124,371,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,45,537,82619,219836819,200,354647,2660,9831
+504,12M,504_12M,boy,section,4,4,124,361,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,15,183,46348,122853799,200,254459,2650,7768
+504,4M,504_4M,boy,section,4,4,124,361,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,7,86,12221,37577442,201,329767,3074,14650
+504,B,504_B,boy,section,4,4,124,361,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,6,52,5166,19048021,203,249145,3687,20933
+504,M,504_M,boy,section,4,4,124,361,mixed feeding,exclusively formula feeding,no breastfeeding,0,0,29,303,95872,179345601,200,486106,1870,3987
+507,12M,507_12M,boy,section,8,9,115,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,12,171,43499,110865293,200,626017,2548,6256
+507,4M,507_4M,boy,section,8,9,115,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,10,125,13601,43201066,200,817931,3176,21796
+507,B,507_B,boy,section,8,9,115,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,1,16,2570,18293132,206,490419,7117,70619
+507,M,507_M,boy,section,8,9,115,365,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,27,374,84793,212414028,200,558075,2505,8736
+511,12M,511_12M,girl,vaginal,4,0,114,358,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,14,231,31534,105544757,200,424044,3347,17675
+511,4M,511_4M,girl,vaginal,4,0,114,358,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,8,111,21322,89412879,200,385127,4193,22904
+511,B,511_B,girl,vaginal,4,0,114,358,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,4,72,7465,51115927,202,627767,6847,35030
+511,M,511_M,girl,vaginal,4,0,114,358,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,29,322,97973,233854808,200,407659,2386,6707
+521,12M,521_12M,girl,vaginal,1,2,123,361,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,6,67,28715,67525187,200,755594,2351,22984
+521,4M,521_4M,girl,vaginal,1,2,123,361,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,7,85,11987,50676908,202,547805,4227,31442
+521,B,521_B,girl,vaginal,1,2,123,361,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,2,8,185,5060554,206,397678,27354,203989
+521,M,521_M,girl,vaginal,1,2,123,361,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,20,197,76630,210350120,200,293823,2745,8314
+527,12M,527_12M,girl,vaginal,0,1,123,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,124,32706,85421587,200,397806,2611,12923
+527,4M,527_4M,girl,vaginal,0,1,123,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,30,3300,19674979,202,552688,5962,67989
+527,B,527_B,girl,vaginal,0,1,123,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,1,13,290,5124969,202,248089,17672,52379
+527,M,527_M,girl,vaginal,0,1,123,360,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,19,235,41159,112817936,200,402181,2741,11762
+532,12M,532_12M,boy,section,5,5,120,364,mixed feeding,exclusively formula feeding,no breastfeeding,0,1,4,44,26693,62223850,201,637246,2331,7257
+532,4M,532_4M,boy,section,5,5,120,364,mixed feeding,exclusively formula feeding,no breastfeeding,0,1,19,291,25035,92634542,200,489308,3700,17574
+532,B,532_B,boy,section,5,5,120,364,mixed feeding,exclusively formula feeding,no breastfeeding,0,1,1,22,4906,15428928,200,393101,3144,8747
+532,M,532_M,boy,section,5,5,120,364,mixed feeding,exclusively formula feeding,no breastfeeding,0,1,15,163,57849,107239878,200,505986,1853,4242
+536,12M,536_12M,boy,vaginal,2,2,122,365,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,10,118,28037,99143031,200,408431,3536,15649
+536,4M,536_4M,boy,vaginal,2,2,122,365,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,78,17922,49272201,200,404758,2749,19196
+536,B,536_B,boy,vaginal,2,2,122,365,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,9,21412,33224309,200,334350,1551,2503
+536,M,536_M,boy,vaginal,2,2,122,365,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,25,213,93478,182067872,200,206990,1947,4013
+546,12M,546_12M,boy,section,3,3,121,358,mixed feeding,exclusively formula feeding,no breastfeeding,0,2,16,179,45516,114113627,200,311242,2507,8508
+546,4M,546_4M,boy,section,3,3,121,358,mixed feeding,exclusively formula feeding,no breastfeeding,0,2,10,120,18299,68756624,200,551304,3757,30576
+546,B,546_B,boy,section,3,3,121,358,mixed feeding,exclusively formula feeding,no breastfeeding,0,2,2,15,884,7430986,203,369002,8406,80468
+546,M,546_M,boy,section,3,3,121,358,mixed feeding,exclusively formula feeding,no breastfeeding,0,2,2,29,20543,49539868,200,306925,2411,13053
+549,12M,549_12M,girl,vaginal,2,0,127,359,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,85,22831,77496229,200,535695,3394,25786
+549,4M,549_4M,girl,vaginal,2,0,127,359,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,21,5327,27675525,201,610136,5195,48982
+549,B,549_B,girl,vaginal,2,0,127,359,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,16,317,9936245,212,827878,31344,187089
+549,M,549_M,girl,vaginal,2,0,127,359,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,126,95076,193433293,200,534701,2034,4507
+560,12M,560_12M,girl,section,4,4,131,360,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,6,79,28883,72870528,200,263872,2522,10825
+560,4M,560_4M,girl,section,4,4,131,360,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,3,42,10228,27436695,202,439274,2682,54267
+560,M,560_M,girl,section,4,4,131,360,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,27,400,81882,171526011,200,320924,2094,5531
+560,B,560_M,girl,section,4,4,131,360,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,7979,19144214,200,184819,2399,4850
+565,12M,565_12M,boy,vaginal,3,0,127,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,112,27460,88878176,200,510149,3236,30472
+565,4M,565_4M,boy,vaginal,3,0,127,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,8,130,11446,47219133,200,568984,4125,51994
+565,B,565_B,boy,vaginal,3,0,127,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,11,150,20882,65977195,200,569745,3159,13096
+565,M,565_M,boy,vaginal,3,0,127,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,18,204,87020,153300175,200,309330,1761,3406
+567,12M,567_12M,girl,vaginal,1,0,121,367,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,11,169,18589,61685555,200,544344,3318,21102
+567,4M,567_4M,girl,vaginal,1,0,121,367,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,8,102,9965,36721467,200,550412,3685,31665
+567,M,567_M,girl,vaginal,1,0,121,367,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,13,178,32171,104874536,200,660622,3259,26764
+567,B,567_M,girl,vaginal,1,0,121,367,mixed feeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,5241,23839422,201,391812,4548,56896
+570,12M,570_12M,girl,vaginal,2,3,118,371,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,11,157,22270,88422588,200,426628,3970,31249
+570,4M,570_4M,girl,vaginal,2,3,118,371,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,5,88,10109,50379930,200,426627,4983,55912
+570,B,570_B,girl,vaginal,2,3,118,371,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,2,30,1817,24048322,203,525366,13235,85973
+570,M,570_M,girl,vaginal,2,3,118,371,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,17,227,55525,128203932,200,459227,2308,7608
+572,12M,572_12M,girl,vaginal,5,6,116,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,166,18702,69154150,200,396624,3697,29636
+572,4M,572_4M,girl,vaginal,5,6,116,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,28,19352,70929564,200,589137,3665,30911
+572,B,572_B,girl,vaginal,5,6,116,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,1,24,12478,39537189,203,667702,3168,41111
+572,M,572_M,girl,vaginal,5,6,116,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,13,182,62598,143452352,200,584214,2291,6291
+577,12M,577_12M,girl,section,7,8,120,369,mixed feeding,mixed feeding,no breastfeeding,1,0,21,237,80678,181383937,200,428002,2248,5311
+577,4M,577_4M,girl,section,7,8,120,369,mixed feeding,mixed feeding,no breastfeeding,1,0,12,241,7913,56314781,200,435437,7116,40323
+577,B,577_B,girl,section,7,8,120,369,mixed feeding,mixed feeding,no breastfeeding,1,0,3,73,1369,11632394,212,436277,8497,89772
+577,M,577_M,girl,section,7,8,120,369,mixed feeding,mixed feeding,no breastfeeding,1,0,17,199,105530,185583088,200,347533,1758,3457
+582,12M,582_12M,girl,vaginal,2,3,125,369,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,20,217,25937,90999834,200,405719,3508,25291
+582,4M,582_4M,girl,vaginal,2,3,125,369,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,4,63,5426,27985552,200,519919,5157,44408
+582,B,582_B,girl,vaginal,2,3,125,369,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,2,30,668,7828961,232,808081,11720,107939
+582,M,582_M,girl,vaginal,2,3,125,369,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,21,241,104350,213126298,200,415202,2042,5312
+585,12M,585_12M,boy,section,6,5,126,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,21,246,50474,144654388,200,505802,2865,10988
+585,4M,585_4M,boy,section,6,5,126,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,25,17237,25298726,203,234672,1467,2212
+585,B,585_B,boy,section,6,5,126,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,24,9527,20502772,200,461506,2152,4985
+585,M,585_M,boy,section,6,5,126,367,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,96,82721,163019566,200,307101,1970,4348
+587,12M,587_12M,boy,vaginal,3,2,125,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,90,27676,76324993,200,524951,2757,14182
+587,4M,587_4M,boy,vaginal,3,2,125,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,54,6546,43438261,200,526963,6635,49590
+587,B,587_B,boy,vaginal,3,2,125,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,47,4189,24579622,202,389998,5867,73541
+587,M,587_M,boy,vaginal,3,2,125,366,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,35,410,112410,239642481,200,233063,2131,5184
+589,12M,589_12M,boy,vaginal,6,11,119,371,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,22,334,37331,120417437,200,374578,3225,20276
+589,4M,589_4M,boy,vaginal,6,11,119,371,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,4,83,5638,15767044,210,322517,2796,27176
+589,B,589_B,boy,vaginal,6,11,119,371,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,4,24,6203,24171004,200,460696,3896,13385
+589,M,589_M,boy,vaginal,6,11,119,371,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,12,115,74879,149320128,200,531332,1994,5558
+590,12M,590_12M,girl,vaginal,4,4,123,355,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,11,125,22980,82239389,200,412390,3578,28329
+590,4M,590_4M,girl,vaginal,4,4,123,355,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,3,25,21054,97080069,200,371015,4611,25089
+590,B,590_B,girl,vaginal,4,4,123,355,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,2,23,21211,56753736,200,296137,2675,16342
+590,M,590_M,girl,vaginal,4,4,123,355,mixed feeding,exclusively breastfeeding,no breastfeeding,0,0,13,154,60732,140528523,200,323315,2313,6893
+591,12M,591_12M,boy,vaginal,9,2,119,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,12,162,16251,68422827,200,841528,4210,43150
+591,4M,591_4M,boy,vaginal,9,2,119,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,10,168,11365,52055551,201,407512,4580,33514
+591,B,591_B,boy,vaginal,9,2,119,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,8,127,11635,38481584,201,516882,3307,24702
+591,M,591_M,boy,vaginal,9,2,119,364,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,9,95,73996,150253656,200,329272,2030,4742
+599,12M,599_12M,boy,vaginal,3,3,150,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,23,283,38218,107900384,200,452407,2823,13784
+599,4M,599_4M,boy,vaginal,3,3,150,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,37,6947,16705161,200,185756,2404,11110
+599,B,599_B,boy,vaginal,3,3,150,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,3,40,6315,19365041,200,252800,3066,13359
+599,M,599_M,boy,vaginal,3,3,150,369,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,25,257,108763,210233520,200,244674,1932,5066
+608,12M,608_12M,girl,section,8,8,127,374,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,7,103,29055,83405804,200,395040,2870,13886
+608,4M,608_4M,girl,section,8,8,127,374,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,2,32,8829,30090704,201,359795,3408,27888
+608,M,608_M,girl,section,8,8,127,374,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,12,149,43891,115764469,200,258477,2637,9742
+608,B,608_M,girl,section,8,8,127,374,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,0,0,6535,25072059,203,1131036,3836,27937
+615,12M,615_12M,girl,section,4,3,133,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,22,246,46536,106053985,200,548942,2278,7043
+615,4M,615_4M,girl,section,4,3,133,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,6,75,23952,48074974,213,487662,2007,7445
+615,B,615_B,girl,section,4,3,133,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,4,66,8336,26734086,200,506712,3207,14424
+615,M,615_M,girl,section,4,3,133,372,exclusively breastfeeding,exclusively breastfeeding,any breastfeeding,0,0,22,219,105384,189704499,200,310776,1800,3970
+622,12M,622_12M,girl,vaginal,1,3,120,351,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,12,168,26471,96670077,200,316021,3651,20395
+622,4M,622_4M,girl,vaginal,1,3,120,351,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,4,56,15107,32654300,201,220821,2161,7868
+622,B,622_B,girl,vaginal,1,3,120,351,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,2,29,5505,15486456,200,160002,2813,8096
+622,M,622_M,girl,vaginal,1,3,120,351,exclusively breastfeeding,mixed feeding,no breastfeeding,0,1,2,31,121583,178682564,200,166025,1469,2197
+624,12M,624_12M,girl,vaginal,NA,0,115,352,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,15,168,33123,83012764,200,452272,2506,10834
+624,4M,624_4M,girl,vaginal,NA,0,115,352,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,10,127,3158,20872711,201,404227,6609,62320
+624,B,624_B,girl,vaginal,NA,0,115,352,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,2,44,10858,28552108,201,158102,2629,6642
+624,M,624_M,girl,vaginal,NA,0,115,352,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,22,266,65606,170491896,200,414791,2598,9396
+626,12M,626_12M,girl,vaginal,2,2,121,372,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,4,48,30473,81774162,200,678724,2683,11620
+626,4M,626_4M,girl,vaginal,2,2,121,372,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,9,111,13168,60486001,200,535430,4593,26601
+626,B,626_B,girl,vaginal,2,2,121,372,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,2,22,1723,23722905,200,593630,13768,112385
+626,M,626_M,girl,vaginal,2,2,121,372,exclusively breastfeeding,mixed feeding,no breastfeeding,0,0,15,190,74549,172886951,200,300076,2319,7566
+635,12M,635_12M,boy,vaginal,2,0,116,353,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,2,19,244,31062,98960357,200,493593,3185,22874
+635,4M,635_4M,boy,vaginal,2,0,116,353,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,2,2,30,19503,45326689,201,438367,2324,5610
+635,B,635_B,boy,vaginal,2,0,116,353,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,2,2,19,8773,22542600,200,506306,2569,14965
+635,M,635_M,boy,vaginal,2,0,116,353,exclusively breastfeeding,exclusively formula feeding,no breastfeeding,0,2,21,254,69808,158794699,200,476372,2274,7315
+637,12M,637_12M,boy,vaginal,3,3,131,378,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,8,122,36329,99506499,200,338999,2739,16187
+637,4M,637_4M,boy,vaginal,3,3,131,378,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,7,78,7636,45515163,200,403962,5960,44805
+637,B,637_B,boy,vaginal,3,3,131,378,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,4,56,4036,22011282,200,375114,5453,52337
+637,M,637_M,boy,vaginal,3,3,131,378,exclusively breastfeeding,exclusively breastfeeding,no breastfeeding,0,0,17,248,72767,123389150,200,305466,1695,3020
+640,12M,640_12M,girl,section,4,4,119,371,mixed feeding,mixed feeding,no breastfeeding,1,1,8,93,38277,78379789,200,335886,2047,8269
+640,4M,640_4M,girl,section,4,4,119,371,mixed feeding,mixed feeding,no breastfeeding,1,1,9,117,19554,79828672,201,495071,4082,15953
+640,B,640_B,girl,section,4,4,119,371,mixed feeding,mixed feeding,no breastfeeding,1,1,1,16,2331,8426589,208,349881,3615,72956
+640,M,640_M,girl,section,4,4,119,371,mixed feeding,mixed feeding,no breastfeeding,1,1,20,235,68145,164100671,200,436401,2408,10080
